@@ -3583,8 +3583,9 @@
       "WordPress"
     ],
     "scriptSrc": [
-      "woocommerce",
-      "/woocommerce(?:\\.min)?\\.js(?:\\?ver=([0-9.]+))?\\;version:\\1"
+      "^(?!.*?/wp-content/plugins/[^/]+/js/integrations/woocommerce\\.js(?:\\?ver=[\\d.]+)?$).*woocommerce",
+      "^(?!.*?/wp-content/plugins/[^/]+/js/integrations/woocommerce\\.js(?:\\?ver=[\\d.]+)?$).*/woocommerce(?:\\.min)?\\.js(?:\\?ver=([0-9.]+))?\\;version:\\1"
+
     ],
     "website": "https://woocommerce.com"
   },
