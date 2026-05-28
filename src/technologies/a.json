@@ -5486,6 +5486,22 @@
     ],
     "website": "https://material.angularjs.org"
   },
+  "Angular Notitia": {
+    "cats": [
+      59,
+      66
+    ],
+    "description": "Easy, flexible toast notification library for Angular applications.",
+    "icon": "AngularNotitia.svg",
+    "oss": true,
+    "website": "https://ngx-notitia.vercel.app",
+    "js": {
+      "ngxNotitia": "(.+)\\;version:\\1"
+    },
+    "implies": [
+      "Angular"
+    ]
+  },
   "AngularDart": {
     "cats": [
       18
