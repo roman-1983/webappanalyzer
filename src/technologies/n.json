@@ -40,9 +40,8 @@
     ],
     "saas": true,
     "scripts": [
-      "N8N_AGENT_REQUESTS",
-      "N8N_PASSWORD_MIN_LENGTH",
-      "N8N_DATA_WORKER"
+      "N8N_DEBOUNCE_MULTIPLIER",
+      "N8N_PASSWORD_MIN_LENGTH"
     ],
     "website": "https://n8n.io"
   },
