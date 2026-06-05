@@ -39,6 +39,11 @@
       "recurring"
     ],
     "saas": true,
+    "scripts": [
+      "N8N_AGENT_REQUESTS",
+      "N8N_PASSWORD_MIN_LENGTH",
+      "N8N_DATA_WORKER"
+    ],
     "website": "https://n8n.io"
   },
   "Nabble": {
