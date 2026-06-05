@@ -4260,6 +4260,20 @@
     ],
     "website": "https://www.worketc.com"
   },
+  "Workplace by Meta": {
+    "cats": [
+      19
+    ],
+    "description": "Workplace was an enterprise collaboration and communication platform developed by Meta (formerly Facebook), used for messaging, news feeds, and groups within organisations.",
+    "dns": {
+      "TXT": [
+        "workplace-domain-verification="
+      ]
+    },
+    "icon": "Workplace.svg",
+    "saas": true,
+    "website": "https://www.workplace.com"
+  },
   "Workstand": {
     "cats": [
       6,

@@ -3503,6 +3503,20 @@
     "saas": true,
     "website": "https://www.loglib.io"
   },
+  "LogMeIn": {
+    "cats": [
+      46
+    ],
+    "description": "LogMeIn (now part of GoTo) provides remote access, remote support, and identity and collaboration software for individuals and businesses.",
+    "dns": {
+      "TXT": [
+        "logmein-verification-code="
+      ]
+    },
+    "icon": "LogMeIn.svg",
+    "saas": true,
+    "website": "https://www.logmein.com"
+  },
   "LogoiX": {
     "cats": [
       99
