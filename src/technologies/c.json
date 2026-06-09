@@ -5308,6 +5308,20 @@
     "saas": true,
     "website": "https://www.cloudflare.com/products/turnstile"
   },
+  "Cloudflare Turnstile for WooCommerce": {
+    "cats": [
+      87
+    ],
+    "description": "Cloudflare Turnstile Integration Plugin for WooCommerce adds Cloudflare Turnstile support to WooCommerce forms.",
+    "icon": "CloudFlare.svg",
+    "requires": [
+      "WordPress"
+    ],
+    "scriptSrc": [
+      "/wp-content/plugins/simple-cloudflare-turnstile/js/integrations/woocommerce\\.js(?:\\?ver=([\\d.]+))?\\;version:\\1"
+    ],
+    "website": "https://wordpress.org/plugins/simple-cloudflare-turnstile/"
+  },
   "Cloudflare Workers": {
     "cats": [
       62
