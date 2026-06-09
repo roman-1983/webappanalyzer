@@ -2509,6 +2509,35 @@
     ],
     "website": "https://www.advin.cz"
   },
+  "Adwos CMS": {
+    "cats": [
+      1,
+      6
+    ],
+    "description": "Adwos CMS is a turnkey CMS for classified ads, marketplaces and rental services. Go 1.24 backend + Next.js 16 frontend, PostgreSQL 16, Redis. Self-hosted, one-time license per domain.",
+    "icon": "Adwos CMS.svg",
+    "website": "https://adwos.org",
+    "saas": false,
+    "oss": false,
+    "pricing": [
+      "onetime",
+      "low"
+    ],
+    "meta": {
+      "generator": "^Adwos CMS",
+      "application-name": "^Adwos CMS$"
+    },
+    "html": [
+      "<meta[^>]+property=\"og:site_name\"[^>]+content=\"Adwos CMS\"",
+      "<meta[^>]+name=\"adwos:powered-by\""
+    ],
+    "implies": [
+      "Next.js",
+      "Go",
+      "PostgreSQL",
+      "Redis"
+    ]
+  },
   "Adyen": {
     "cats": [
       41
